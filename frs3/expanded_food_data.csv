@@ -1,0 +1,501 @@
+Food_ID,Name,C_Type,Veg_Non,Describe,Health_Issue,Climate,Restaurant,Rating,Protein,Calories,Carbs
+1,Food Item 1,Healthy Food,non-veg,Description of food item,Diabetes,Varied,Energy Bites,4.2,27.1,469,25.8
+2,Food Item 2,Healthy Food,veg,Description of food item,Diabetes,Varied,Ocean Breeze,3.6,6.1,435,70.8
+3,Food Item 3,Healthy Food,non-veg,Description of food item,Diabetes,Varied,Energy Bites,4.6,6.7,498,14.1
+4,Food Item 4,Healthy Food,veg,Description of food item,Diabetes,Varied,Urban Plates,4.1,15.7,336,43.2
+5,Food Item 5,Healthy Food,non-veg,Description of food item,Diabetes,Varied,Spice House,4.5,5.9,132,20.1
+6,Food Item 6,Healthy Food,veg,Description of food item,Diabetes,Varied,Spice House,5.0,16.5,172,71.6
+7,Food Item 7,Healthy Food,non-veg,Description of food item,Diabetes,Varied,Fresh Greens,4.3,4.0,477,71.8
+8,Food Item 8,Healthy Food,veg,Description of food item,Diabetes,Varied,Urban Plates,4.2,8.9,214,53.2
+9,Food Item 9,Healthy Food,non-veg,Description of food item,Diabetes,Varied,Healthy Greens,4.6,3.2,355,42.8
+10,Food Item 10,Healthy Food,veg,Description of food item,Diabetes,Varied,Home Kitchen,4.8,6.0,442,10.5
+11,Food Item 11,Healthy Food,non-veg,Description of food item,Heart Health,Varied,Vital Cafe,3.7,13.8,233,11.2
+12,Food Item 12,Healthy Food,veg,Description of food item,Heart Health,Varied,Ocean Breeze,4.9,28.7,357,61.8
+13,Food Item 13,Healthy Food,non-veg,Description of food item,Heart Health,Varied,Ocean Breeze,4.1,8.3,417,17.0
+14,Food Item 14,Healthy Food,veg,Description of food item,Heart Health,Varied,Vital Cafe,3.9,16.8,152,43.9
+15,Food Item 15,Healthy Food,non-veg,Description of food item,Heart Health,Varied,Fruit Bar,3.8,14.7,423,17.6
+16,Food Item 16,Healthy Food,veg,Description of food item,Heart Health,Varied,Ocean Breeze,3.8,11.6,228,62.1
+17,Food Item 17,Healthy Food,non-veg,Description of food item,Heart Health,Varied,Fruit Bar,4.3,15.3,283,59.1
+18,Food Item 18,Healthy Food,veg,Description of food item,Heart Health,Varied,Fruit Bar,4.1,15.4,276,42.7
+19,Food Item 19,Healthy Food,non-veg,Description of food item,Heart Health,Varied,Fresh Greens,4.0,23.3,357,13.2
+20,Food Item 20,Healthy Food,veg,Description of food item,Heart Health,Varied,Energy Bites,4.2,16.5,436,73.2
+21,Food Item 21,Healthy Food,non-veg,Description of food item,Obesity,Varied,Energy Bites,4.7,21.9,465,47.8
+22,Food Item 22,Healthy Food,veg,Description of food item,Obesity,Varied,Spice House,4.5,18.1,232,62.8
+23,Food Item 23,Healthy Food,non-veg,Description of food item,Obesity,Varied,Ocean Breeze,3.6,15.7,375,74.2
+24,Food Item 24,Healthy Food,veg,Description of food item,Obesity,Varied,Fresh Greens,4.3,29.8,371,42.2
+25,Food Item 25,Healthy Food,non-veg,Description of food item,Obesity,Varied,Fresh Greens,4.9,11.8,317,77.7
+26,Food Item 26,Healthy Food,veg,Description of food item,Obesity,Varied,Spice House,4.9,24.2,497,58.4
+27,Food Item 27,Healthy Food,non-veg,Description of food item,Obesity,Varied,Vital Cafe,4.9,4.8,112,69.3
+28,Food Item 28,Healthy Food,veg,Description of food item,Obesity,Varied,Ocean Breeze,3.8,17.6,282,32.2
+29,Food Item 29,Healthy Food,non-veg,Description of food item,Obesity,Varied,Home Kitchen,3.7,20.7,120,79.3
+30,Food Item 30,Healthy Food,veg,Description of food item,Obesity,Varied,Urban Plates,4.2,9.4,430,31.4
+31,Food Item 31,Healthy Food,non-veg,Description of food item,Hypertension,Varied,Urban Plates,4.0,23.7,209,11.0
+32,Food Item 32,Healthy Food,veg,Description of food item,Hypertension,Varied,Ocean Breeze,4.9,22.6,391,68.8
+33,Food Item 33,Healthy Food,non-veg,Description of food item,Hypertension,Varied,Fresh Greens,4.8,7.0,212,21.0
+34,Food Item 34,Healthy Food,veg,Description of food item,Hypertension,Varied,Ocean Breeze,4.7,16.4,378,61.5
+35,Food Item 35,Healthy Food,non-veg,Description of food item,Hypertension,Varied,Energy Bites,3.5,12.6,286,77.8
+36,Food Item 36,Healthy Food,veg,Description of food item,Hypertension,Varied,Fresh Greens,4.4,26.9,419,24.3
+37,Food Item 37,Healthy Food,non-veg,Description of food item,Hypertension,Varied,Ocean Breeze,4.6,6.2,195,74.9
+38,Food Item 38,Healthy Food,veg,Description of food item,Hypertension,Varied,Ocean Breeze,4.7,9.9,160,69.5
+39,Food Item 39,Healthy Food,non-veg,Description of food item,Hypertension,Varied,Urban Plates,4.8,8.6,309,30.2
+40,Food Item 40,Healthy Food,veg,Description of food item,Hypertension,Varied,Healthy Greens,4.5,10.8,111,27.1
+41,Food Item 41,Healthy Food,non-veg,Description of food item,Anemia,Varied,Green Table,4.7,29.4,418,16.2
+42,Food Item 42,Healthy Food,veg,Description of food item,Anemia,Varied,Healthy Greens,4.7,24.6,463,78.3
+43,Food Item 43,Healthy Food,non-veg,Description of food item,Anemia,Varied,Fruit Bar,4.0,17.3,151,33.8
+44,Food Item 44,Healthy Food,veg,Description of food item,Anemia,Varied,Home Kitchen,3.6,8.1,493,77.9
+45,Food Item 45,Healthy Food,non-veg,Description of food item,Anemia,Varied,Home Kitchen,3.9,15.8,340,41.3
+46,Food Item 46,Healthy Food,veg,Description of food item,Anemia,Varied,Fresh Greens,4.6,22.4,222,66.3
+47,Food Item 47,Healthy Food,non-veg,Description of food item,Anemia,Varied,Energy Bites,3.7,8.0,146,38.5
+48,Food Item 48,Healthy Food,veg,Description of food item,Anemia,Varied,Ocean Breeze,4.0,4.0,460,53.4
+49,Food Item 49,Healthy Food,non-veg,Description of food item,Anemia,Varied,Vital Cafe,3.7,8.2,148,20.0
+50,Food Item 50,Healthy Food,veg,Description of food item,Anemia,Varied,Spice House,4.4,21.5,176,57.1
+51,Food Item 51,Healthy Food,non-veg,Description of food item,Asthma,Varied,Fresh Greens,3.8,2.6,497,65.1
+52,Food Item 52,Healthy Food,veg,Description of food item,Asthma,Varied,Urban Plates,3.8,8.9,216,28.8
+53,Food Item 53,Healthy Food,non-veg,Description of food item,Asthma,Varied,Energy Bites,4.6,28.1,444,49.0
+54,Food Item 54,Healthy Food,veg,Description of food item,Asthma,Varied,Healthy Greens,4.3,22.5,104,37.0
+55,Food Item 55,Healthy Food,non-veg,Description of food item,Asthma,Varied,Healthy Greens,4.4,12.6,326,54.3
+56,Food Item 56,Healthy Food,veg,Description of food item,Asthma,Varied,Spice House,3.6,28.3,124,53.2
+57,Food Item 57,Healthy Food,non-veg,Description of food item,Asthma,Varied,Energy Bites,4.7,21.6,169,57.7
+58,Food Item 58,Healthy Food,veg,Description of food item,Asthma,Varied,Vital Cafe,4.8,17.3,192,73.5
+59,Food Item 59,Healthy Food,non-veg,Description of food item,Asthma,Varied,Urban Plates,4.5,3.0,217,32.1
+60,Food Item 60,Healthy Food,veg,Description of food item,Asthma,Varied,Home Kitchen,4.2,19.0,106,37.0
+61,Food Item 61,Healthy Food,non-veg,Description of food item,Arthritis,Varied,Green Table,4.4,2.2,365,39.7
+62,Food Item 62,Healthy Food,veg,Description of food item,Arthritis,Varied,Healthy Greens,4.3,18.5,436,36.6
+63,Food Item 63,Healthy Food,non-veg,Description of food item,Arthritis,Varied,Home Kitchen,4.8,7.2,463,41.8
+64,Food Item 64,Healthy Food,veg,Description of food item,Arthritis,Varied,Fresh Greens,3.9,9.5,481,69.7
+65,Food Item 65,Healthy Food,non-veg,Description of food item,Arthritis,Varied,Energy Bites,3.5,5.5,326,55.9
+66,Food Item 66,Healthy Food,veg,Description of food item,Arthritis,Varied,Green Table,4.0,17.9,460,58.9
+67,Food Item 67,Healthy Food,non-veg,Description of food item,Arthritis,Varied,Energy Bites,4.6,27.6,191,74.4
+68,Food Item 68,Healthy Food,veg,Description of food item,Arthritis,Varied,Urban Plates,3.6,28.9,475,66.6
+69,Food Item 69,Healthy Food,non-veg,Description of food item,Arthritis,Varied,Home Kitchen,4.1,25.9,318,56.3
+70,Food Item 70,Healthy Food,veg,Description of food item,Arthritis,Varied,Fresh Greens,3.5,14.1,162,41.2
+71,Food Item 71,Healthy Food,non-veg,Description of food item,Depression,Varied,Fresh Greens,3.6,8.2,491,21.2
+72,Food Item 72,Healthy Food,veg,Description of food item,Depression,Varied,Healthy Greens,4.4,17.7,202,67.8
+73,Food Item 73,Healthy Food,non-veg,Description of food item,Depression,Varied,Fresh Greens,4.4,8.0,423,68.9
+74,Food Item 74,Healthy Food,veg,Description of food item,Depression,Varied,Healthy Greens,4.3,28.2,104,22.6
+75,Food Item 75,Healthy Food,non-veg,Description of food item,Depression,Varied,Fresh Greens,4.9,27.8,485,55.4
+76,Food Item 76,Healthy Food,veg,Description of food item,Depression,Varied,Ocean Breeze,4.9,25.1,146,46.7
+77,Food Item 77,Healthy Food,non-veg,Description of food item,Depression,Varied,Healthy Greens,4.9,15.0,163,47.7
+78,Food Item 78,Healthy Food,veg,Description of food item,Depression,Varied,Spice House,4.9,20.5,412,77.6
+79,Food Item 79,Healthy Food,non-veg,Description of food item,Depression,Varied,Fresh Greens,4.7,29.0,154,17.6
+80,Food Item 80,Healthy Food,veg,Description of food item,Depression,Varied,Home Kitchen,4.6,26.2,136,77.3
+81,Food Item 81,Healthy Food,non-veg,Description of food item,Kidney Disease,Varied,Home Kitchen,4.7,4.1,213,65.5
+82,Food Item 82,Healthy Food,veg,Description of food item,Kidney Disease,Varied,Fruit Bar,3.6,18.0,323,45.5
+83,Food Item 83,Healthy Food,non-veg,Description of food item,Kidney Disease,Varied,Fruit Bar,4.9,5.8,159,19.1
+84,Food Item 84,Healthy Food,veg,Description of food item,Kidney Disease,Varied,Fresh Greens,4.6,15.2,418,32.9
+85,Food Item 85,Healthy Food,non-veg,Description of food item,Kidney Disease,Varied,Ocean Breeze,4.3,24.3,385,46.0
+86,Food Item 86,Healthy Food,veg,Description of food item,Kidney Disease,Varied,Spice House,4.9,28.0,283,79.6
+87,Food Item 87,Healthy Food,non-veg,Description of food item,Kidney Disease,Varied,Green Table,4.3,5.2,323,18.9
+88,Food Item 88,Healthy Food,veg,Description of food item,Kidney Disease,Varied,Home Kitchen,4.5,6.1,184,73.1
+89,Food Item 89,Healthy Food,non-veg,Description of food item,Kidney Disease,Varied,Home Kitchen,3.9,8.7,161,43.7
+90,Food Item 90,Healthy Food,veg,Description of food item,Kidney Disease,Varied,Fresh Greens,4.6,25.0,434,52.8
+91,Food Item 91,Healthy Food,non-veg,Description of food item,Liver Disease,Varied,Energy Bites,4.1,22.5,256,79.4
+92,Food Item 92,Healthy Food,veg,Description of food item,Liver Disease,Varied,Fruit Bar,4.1,21.7,108,47.9
+93,Food Item 93,Healthy Food,non-veg,Description of food item,Liver Disease,Varied,Green Table,4.6,8.7,279,38.8
+94,Food Item 94,Healthy Food,veg,Description of food item,Liver Disease,Varied,Energy Bites,4.5,15.6,247,68.6
+95,Food Item 95,Healthy Food,non-veg,Description of food item,Liver Disease,Varied,Ocean Breeze,3.7,26.6,356,60.6
+96,Food Item 96,Healthy Food,veg,Description of food item,Liver Disease,Varied,Healthy Greens,3.6,10.2,387,70.0
+97,Food Item 97,Healthy Food,non-veg,Description of food item,Liver Disease,Varied,Spice House,4.7,16.3,259,39.9
+98,Food Item 98,Healthy Food,veg,Description of food item,Liver Disease,Varied,Ocean Breeze,3.6,20.5,453,54.1
+99,Food Item 99,Healthy Food,non-veg,Description of food item,Liver Disease,Varied,Vital Cafe,4.3,15.9,426,56.3
+100,Food Item 100,Healthy Food,veg,Description of food item,Liver Disease,Varied,Fresh Greens,4.2,23.9,132,33.0
+101,Food Item 101,Healthy Food,non-veg,Description of food item,Thyroid,Varied,Energy Bites,5.0,17.0,320,65.7
+102,Food Item 102,Healthy Food,veg,Description of food item,Thyroid,Varied,Fruit Bar,4.4,2.4,127,53.3
+103,Food Item 103,Healthy Food,non-veg,Description of food item,Thyroid,Varied,Fruit Bar,3.9,27.4,181,35.8
+104,Food Item 104,Healthy Food,veg,Description of food item,Thyroid,Varied,Urban Plates,4.8,11.6,290,20.6
+105,Food Item 105,Healthy Food,non-veg,Description of food item,Thyroid,Varied,Green Table,4.2,4.4,363,65.2
+106,Food Item 106,Healthy Food,veg,Description of food item,Thyroid,Varied,Home Kitchen,4.4,12.1,422,15.2
+107,Food Item 107,Healthy Food,non-veg,Description of food item,Thyroid,Varied,Fruit Bar,4.4,25.5,311,27.3
+108,Food Item 108,Healthy Food,veg,Description of food item,Thyroid,Varied,Fruit Bar,3.9,20.9,397,74.5
+109,Food Item 109,Healthy Food,non-veg,Description of food item,Thyroid,Varied,Spice House,4.4,22.1,247,50.9
+110,Food Item 110,Healthy Food,veg,Description of food item,Thyroid,Varied,Spice House,4.2,21.7,489,44.7
+111,Food Item 111,Healthy Food,non-veg,Description of food item,Osteoporosis,Varied,Fruit Bar,4.0,14.3,381,50.3
+112,Food Item 112,Healthy Food,veg,Description of food item,Osteoporosis,Varied,Home Kitchen,3.9,5.9,129,75.9
+113,Food Item 113,Healthy Food,non-veg,Description of food item,Osteoporosis,Varied,Energy Bites,4.3,21.7,152,64.5
+114,Food Item 114,Healthy Food,veg,Description of food item,Osteoporosis,Varied,Green Table,3.9,10.9,247,27.1
+115,Food Item 115,Healthy Food,non-veg,Description of food item,Osteoporosis,Varied,Fresh Greens,3.6,26.8,444,78.2
+116,Food Item 116,Healthy Food,veg,Description of food item,Osteoporosis,Varied,Healthy Greens,4.5,27.1,176,48.1
+117,Food Item 117,Healthy Food,non-veg,Description of food item,Osteoporosis,Varied,Urban Plates,4.9,18.6,361,46.5
+118,Food Item 118,Healthy Food,veg,Description of food item,Osteoporosis,Varied,Healthy Greens,4.2,26.4,357,55.2
+119,Food Item 119,Healthy Food,non-veg,Description of food item,Osteoporosis,Varied,Green Table,4.7,26.7,373,78.8
+120,Food Item 120,Healthy Food,veg,Description of food item,Osteoporosis,Varied,Spice House,4.0,28.3,190,78.4
+121,Food Item 121,Healthy Food,non-veg,Description of food item,Alzheimer's,Varied,Urban Plates,4.3,20.7,346,12.5
+122,Food Item 122,Healthy Food,veg,Description of food item,Alzheimer's,Varied,Home Kitchen,4.3,22.2,193,74.2
+123,Food Item 123,Healthy Food,non-veg,Description of food item,Alzheimer's,Varied,Ocean Breeze,4.7,21.7,270,38.2
+124,Food Item 124,Healthy Food,veg,Description of food item,Alzheimer's,Varied,Spice House,4.2,3.9,468,29.2
+125,Food Item 125,Healthy Food,non-veg,Description of food item,Alzheimer's,Varied,Urban Plates,4.6,29.9,424,33.4
+126,Food Item 126,Healthy Food,veg,Description of food item,Alzheimer's,Varied,Vital Cafe,4.1,14.5,256,38.8
+127,Food Item 127,Healthy Food,non-veg,Description of food item,Alzheimer's,Varied,Energy Bites,4.4,23.3,441,78.3
+128,Food Item 128,Healthy Food,veg,Description of food item,Alzheimer's,Varied,Healthy Greens,3.6,29.0,404,16.5
+129,Food Item 129,Healthy Food,non-veg,Description of food item,Alzheimer's,Varied,Healthy Greens,4.3,10.4,215,50.0
+130,Food Item 130,Healthy Food,veg,Description of food item,Alzheimer's,Varied,Spice House,4.7,8.0,353,28.7
+131,Food Item 131,Healthy Food,non-veg,Description of food item,Parkinson's,Varied,Fresh Greens,3.7,4.7,196,49.7
+132,Food Item 132,Healthy Food,veg,Description of food item,Parkinson's,Varied,Fruit Bar,4.5,2.9,126,78.6
+133,Food Item 133,Healthy Food,non-veg,Description of food item,Parkinson's,Varied,Fresh Greens,4.9,27.9,155,57.3
+134,Food Item 134,Healthy Food,veg,Description of food item,Parkinson's,Varied,Green Table,4.6,8.8,475,67.0
+135,Food Item 135,Healthy Food,non-veg,Description of food item,Parkinson's,Varied,Urban Plates,4.5,4.3,353,27.4
+136,Food Item 136,Healthy Food,veg,Description of food item,Parkinson's,Varied,Home Kitchen,4.3,10.9,331,37.5
+137,Food Item 137,Healthy Food,non-veg,Description of food item,Parkinson's,Varied,Ocean Breeze,3.6,19.0,229,37.1
+138,Food Item 138,Healthy Food,veg,Description of food item,Parkinson's,Varied,Energy Bites,4.2,13.3,466,39.9
+139,Food Item 139,Healthy Food,non-veg,Description of food item,Parkinson's,Varied,Spice House,3.5,4.4,485,42.2
+140,Food Item 140,Healthy Food,veg,Description of food item,Parkinson's,Varied,Home Kitchen,4.9,27.1,453,61.7
+141,Food Item 141,Healthy Food,non-veg,Description of food item,Celiac Disease,Varied,Urban Plates,4.9,20.5,278,18.0
+142,Food Item 142,Healthy Food,veg,Description of food item,Celiac Disease,Varied,Fresh Greens,4.9,27.4,105,34.7
+143,Food Item 143,Healthy Food,non-veg,Description of food item,Celiac Disease,Varied,Healthy Greens,4.6,29.2,170,62.7
+144,Food Item 144,Healthy Food,veg,Description of food item,Celiac Disease,Varied,Vital Cafe,4.9,19.3,120,65.7
+145,Food Item 145,Healthy Food,non-veg,Description of food item,Celiac Disease,Varied,Fruit Bar,4.8,20.1,468,17.4
+146,Food Item 146,Healthy Food,veg,Description of food item,Celiac Disease,Varied,Spice House,4.6,6.2,325,64.2
+147,Food Item 147,Healthy Food,non-veg,Description of food item,Celiac Disease,Varied,Energy Bites,4.1,14.9,206,35.5
+148,Food Item 148,Healthy Food,veg,Description of food item,Celiac Disease,Varied,Energy Bites,3.5,6.4,368,24.5
+149,Food Item 149,Healthy Food,non-veg,Description of food item,Celiac Disease,Varied,Fruit Bar,4.7,9.8,362,19.6
+150,Food Item 150,Healthy Food,veg,Description of food item,Celiac Disease,Varied,Green Table,3.7,3.6,204,47.2
+151,Food Item 151,Healthy Food,non-veg,Description of food item,Crohn's Disease,Varied,Energy Bites,3.7,16.4,141,25.1
+152,Food Item 152,Healthy Food,veg,Description of food item,Crohn's Disease,Varied,Urban Plates,4.7,27.3,426,75.1
+153,Food Item 153,Healthy Food,non-veg,Description of food item,Crohn's Disease,Varied,Green Table,5.0,16.6,129,55.1
+154,Food Item 154,Healthy Food,veg,Description of food item,Crohn's Disease,Varied,Fruit Bar,3.6,11.4,284,44.4
+155,Food Item 155,Healthy Food,non-veg,Description of food item,Crohn's Disease,Varied,Fruit Bar,3.8,14.2,199,79.6
+156,Food Item 156,Healthy Food,veg,Description of food item,Crohn's Disease,Varied,Urban Plates,4.7,12.4,182,31.3
+157,Food Item 157,Healthy Food,non-veg,Description of food item,Crohn's Disease,Varied,Home Kitchen,4.0,12.9,477,27.9
+158,Food Item 158,Healthy Food,veg,Description of food item,Crohn's Disease,Varied,Vital Cafe,4.0,13.3,335,33.3
+159,Food Item 159,Healthy Food,non-veg,Description of food item,Crohn's Disease,Varied,Healthy Greens,4.0,25.5,469,23.5
+160,Food Item 160,Healthy Food,veg,Description of food item,Crohn's Disease,Varied,Green Table,3.7,19.7,458,12.7
+161,Food Item 161,Healthy Food,non-veg,Description of food item,Gastritis,Varied,Home Kitchen,4.2,26.2,320,32.7
+162,Food Item 162,Healthy Food,veg,Description of food item,Gastritis,Varied,Green Table,4.2,8.6,277,63.6
+163,Food Item 163,Healthy Food,non-veg,Description of food item,Gastritis,Varied,Home Kitchen,4.0,6.5,358,76.4
+164,Food Item 164,Healthy Food,veg,Description of food item,Gastritis,Varied,Fruit Bar,3.8,4.4,251,40.2
+165,Food Item 165,Healthy Food,non-veg,Description of food item,Gastritis,Varied,Spice House,4.3,10.7,162,11.8
+166,Food Item 166,Healthy Food,veg,Description of food item,Gastritis,Varied,Energy Bites,4.2,10.6,183,63.7
+167,Food Item 167,Healthy Food,non-veg,Description of food item,Gastritis,Varied,Vital Cafe,4.7,11.5,479,19.3
+168,Food Item 168,Healthy Food,veg,Description of food item,Gastritis,Varied,Home Kitchen,4.7,16.0,416,39.2
+169,Food Item 169,Healthy Food,non-veg,Description of food item,Gastritis,Varied,Home Kitchen,4.3,23.4,474,71.3
+170,Food Item 170,Healthy Food,veg,Description of food item,Gastritis,Varied,Fruit Bar,4.9,8.9,231,13.0
+171,Food Item 171,Healthy Food,non-veg,Description of food item,Cholesterol,Varied,Vital Cafe,4.6,26.5,480,64.4
+172,Food Item 172,Healthy Food,veg,Description of food item,Cholesterol,Varied,Energy Bites,4.4,12.2,182,52.4
+173,Food Item 173,Healthy Food,non-veg,Description of food item,Cholesterol,Varied,Fresh Greens,3.9,21.2,498,35.9
+174,Food Item 174,Healthy Food,veg,Description of food item,Cholesterol,Varied,Urban Plates,4.6,7.8,444,33.3
+175,Food Item 175,Healthy Food,non-veg,Description of food item,Cholesterol,Varied,Vital Cafe,3.9,18.6,387,33.1
+176,Food Item 176,Healthy Food,veg,Description of food item,Cholesterol,Varied,Spice House,4.7,13.7,165,47.3
+177,Food Item 177,Healthy Food,non-veg,Description of food item,Cholesterol,Varied,Healthy Greens,4.0,6.7,443,24.5
+178,Food Item 178,Healthy Food,veg,Description of food item,Cholesterol,Varied,Fresh Greens,4.8,7.1,183,11.7
+179,Food Item 179,Healthy Food,non-veg,Description of food item,Cholesterol,Varied,Urban Plates,5.0,5.3,393,15.0
+180,Food Item 180,Healthy Food,veg,Description of food item,Cholesterol,Varied,Green Table,3.8,2.9,410,69.1
+181,Food Item 181,Healthy Food,non-veg,Description of food item,Anxiety,Varied,Spice House,4.1,10.0,291,52.7
+182,Food Item 182,Healthy Food,veg,Description of food item,Anxiety,Varied,Green Table,4.4,28.3,198,70.8
+183,Food Item 183,Healthy Food,non-veg,Description of food item,Anxiety,Varied,Vital Cafe,4.6,10.2,445,69.9
+184,Food Item 184,Healthy Food,veg,Description of food item,Anxiety,Varied,Urban Plates,3.6,8.0,220,44.9
+185,Food Item 185,Healthy Food,non-veg,Description of food item,Anxiety,Varied,Urban Plates,4.1,9.9,211,30.2
+186,Food Item 186,Healthy Food,veg,Description of food item,Anxiety,Varied,Energy Bites,4.5,19.0,316,61.1
+187,Food Item 187,Healthy Food,non-veg,Description of food item,Anxiety,Varied,Spice House,4.6,2.2,146,34.9
+188,Food Item 188,Healthy Food,veg,Description of food item,Anxiety,Varied,Healthy Greens,4.6,18.7,280,44.2
+189,Food Item 189,Healthy Food,non-veg,Description of food item,Anxiety,Varied,Urban Plates,4.1,8.8,474,40.1
+190,Food Item 190,Healthy Food,veg,Description of food item,Anxiety,Varied,Spice House,4.7,10.6,304,73.5
+191,Food Item 191,Healthy Food,non-veg,Description of food item,IBS,Varied,Energy Bites,4.8,22.3,430,49.4
+192,Food Item 192,Healthy Food,veg,Description of food item,IBS,Varied,Green Table,3.7,8.2,371,27.4
+193,Food Item 193,Healthy Food,non-veg,Description of food item,IBS,Varied,Home Kitchen,4.0,8.2,211,16.3
+194,Food Item 194,Healthy Food,veg,Description of food item,IBS,Varied,Green Table,3.8,23.8,290,27.6
+195,Food Item 195,Healthy Food,non-veg,Description of food item,IBS,Varied,Fresh Greens,4.6,2.1,232,75.4
+196,Food Item 196,Healthy Food,veg,Description of food item,IBS,Varied,Fruit Bar,4.5,18.0,143,51.6
+197,Food Item 197,Healthy Food,non-veg,Description of food item,IBS,Varied,Home Kitchen,4.4,20.2,183,52.8
+198,Food Item 198,Healthy Food,veg,Description of food item,IBS,Varied,Urban Plates,4.4,11.7,106,50.5
+199,Food Item 199,Healthy Food,non-veg,Description of food item,IBS,Varied,Energy Bites,4.6,24.4,262,32.2
+200,Food Item 200,Healthy Food,veg,Description of food item,IBS,Varied,Vital Cafe,4.7,27.9,262,38.8
+201,Food Item 201,Healthy Food,non-veg,Description of food item,Migraines,Varied,Home Kitchen,4.0,28.0,192,60.2
+202,Food Item 202,Healthy Food,veg,Description of food item,Migraines,Varied,Fresh Greens,3.7,12.5,426,33.5
+203,Food Item 203,Healthy Food,non-veg,Description of food item,Migraines,Varied,Fresh Greens,3.6,18.2,452,10.9
+204,Food Item 204,Healthy Food,veg,Description of food item,Migraines,Varied,Fresh Greens,4.0,14.8,227,46.3
+205,Food Item 205,Healthy Food,non-veg,Description of food item,Migraines,Varied,Urban Plates,4.3,26.3,378,78.2
+206,Food Item 206,Healthy Food,veg,Description of food item,Migraines,Varied,Healthy Greens,4.7,17.4,191,57.0
+207,Food Item 207,Healthy Food,non-veg,Description of food item,Migraines,Varied,Spice House,4.8,3.1,215,78.5
+208,Food Item 208,Healthy Food,veg,Description of food item,Migraines,Varied,Healthy Greens,4.6,21.3,448,45.7
+209,Food Item 209,Healthy Food,non-veg,Description of food item,Migraines,Varied,Fruit Bar,4.1,21.0,411,23.6
+210,Food Item 210,Healthy Food,veg,Description of food item,Migraines,Varied,Ocean Breeze,4.8,20.0,326,52.1
+211,Food Item 211,Healthy Food,non-veg,Description of food item,Psoriasis,Varied,Ocean Breeze,3.7,3.9,340,45.7
+212,Food Item 212,Healthy Food,veg,Description of food item,Psoriasis,Varied,Spice House,4.2,28.1,172,38.0
+213,Food Item 213,Healthy Food,non-veg,Description of food item,Psoriasis,Varied,Vital Cafe,4.3,7.7,491,36.7
+214,Food Item 214,Healthy Food,veg,Description of food item,Psoriasis,Varied,Fresh Greens,3.5,6.7,466,33.1
+215,Food Item 215,Healthy Food,non-veg,Description of food item,Psoriasis,Varied,Urban Plates,3.5,18.5,142,21.0
+216,Food Item 216,Healthy Food,veg,Description of food item,Psoriasis,Varied,Ocean Breeze,4.6,27.4,122,38.7
+217,Food Item 217,Healthy Food,non-veg,Description of food item,Psoriasis,Varied,Fruit Bar,4.3,26.5,386,10.2
+218,Food Item 218,Healthy Food,veg,Description of food item,Psoriasis,Varied,Ocean Breeze,4.0,9.9,404,74.9
+219,Food Item 219,Healthy Food,non-veg,Description of food item,Psoriasis,Varied,Fruit Bar,3.9,24.8,141,48.8
+220,Food Item 220,Healthy Food,veg,Description of food item,Psoriasis,Varied,Spice House,4.5,22.5,496,29.7
+221,Food Item 221,Healthy Food,non-veg,Description of food item,Lupus,Varied,Fresh Greens,3.8,29.6,357,27.8
+222,Food Item 222,Healthy Food,veg,Description of food item,Lupus,Varied,Home Kitchen,3.9,17.6,127,19.5
+223,Food Item 223,Healthy Food,non-veg,Description of food item,Lupus,Varied,Vital Cafe,4.8,7.2,410,42.1
+224,Food Item 224,Healthy Food,veg,Description of food item,Lupus,Varied,Fruit Bar,4.7,28.4,261,44.2
+225,Food Item 225,Healthy Food,non-veg,Description of food item,Lupus,Varied,Urban Plates,4.9,24.5,377,28.9
+226,Food Item 226,Healthy Food,veg,Description of food item,Lupus,Varied,Spice House,4.3,26.8,469,70.7
+227,Food Item 227,Healthy Food,non-veg,Description of food item,Lupus,Varied,Fresh Greens,3.6,30.0,342,14.3
+228,Food Item 228,Healthy Food,veg,Description of food item,Lupus,Varied,Urban Plates,4.6,8.9,112,15.3
+229,Food Item 229,Healthy Food,non-veg,Description of food item,Lupus,Varied,Home Kitchen,3.7,20.8,147,73.2
+230,Food Item 230,Healthy Food,veg,Description of food item,Lupus,Varied,Healthy Greens,4.8,29.8,456,74.0
+231,Food Item 231,Healthy Food,non-veg,Description of food item,Skin Allergy,Varied,Vital Cafe,4.4,10.0,379,33.5
+232,Food Item 232,Healthy Food,veg,Description of food item,Skin Allergy,Varied,Vital Cafe,4.6,22.7,301,65.3
+233,Food Item 233,Healthy Food,non-veg,Description of food item,Skin Allergy,Varied,Fresh Greens,4.8,4.1,113,44.8
+234,Food Item 234,Healthy Food,veg,Description of food item,Skin Allergy,Varied,Spice House,3.5,26.0,464,13.8
+235,Food Item 235,Healthy Food,non-veg,Description of food item,Skin Allergy,Varied,Urban Plates,4.9,28.0,429,16.5
+236,Food Item 236,Healthy Food,veg,Description of food item,Skin Allergy,Varied,Spice House,3.8,29.1,456,77.4
+237,Food Item 237,Healthy Food,non-veg,Description of food item,Skin Allergy,Varied,Urban Plates,4.3,5.1,330,24.0
+238,Food Item 238,Healthy Food,veg,Description of food item,Skin Allergy,Varied,Fruit Bar,3.9,11.8,461,48.4
+239,Food Item 239,Healthy Food,non-veg,Description of food item,Skin Allergy,Varied,Fresh Greens,3.5,27.2,253,32.9
+240,Food Item 240,Healthy Food,veg,Description of food item,Skin Allergy,Varied,Energy Bites,4.5,23.7,295,61.6
+241,Food Item 241,Healthy Food,non-veg,Description of food item,Back Pain,Varied,Fruit Bar,4.6,10.9,168,58.6
+242,Food Item 242,Healthy Food,veg,Description of food item,Back Pain,Varied,Ocean Breeze,4.7,19.6,403,12.1
+243,Food Item 243,Healthy Food,non-veg,Description of food item,Back Pain,Varied,Spice House,4.7,24.8,260,45.2
+244,Food Item 244,Healthy Food,veg,Description of food item,Back Pain,Varied,Fresh Greens,4.1,7.3,149,21.2
+245,Food Item 245,Healthy Food,non-veg,Description of food item,Back Pain,Varied,Urban Plates,4.0,12.9,280,30.6
+246,Food Item 246,Healthy Food,veg,Description of food item,Back Pain,Varied,Energy Bites,3.9,12.5,109,38.5
+247,Food Item 247,Healthy Food,non-veg,Description of food item,Back Pain,Varied,Vital Cafe,4.5,24.5,128,10.4
+248,Food Item 248,Healthy Food,veg,Description of food item,Back Pain,Varied,Fruit Bar,4.1,11.9,459,43.1
+249,Food Item 249,Healthy Food,non-veg,Description of food item,Back Pain,Varied,Spice House,3.8,22.5,365,23.9
+250,Food Item 250,Healthy Food,veg,Description of food item,Back Pain,Varied,Green Table,3.7,12.4,346,13.5
+251,Food Item 251,Healthy Food,non-veg,Description of food item,Cancer,Varied,Green Table,4.0,8.6,315,67.6
+252,Food Item 252,Healthy Food,veg,Description of food item,Cancer,Varied,Urban Plates,5.0,27.5,119,28.1
+253,Food Item 253,Healthy Food,non-veg,Description of food item,Cancer,Varied,Spice House,3.7,28.5,160,39.2
+254,Food Item 254,Healthy Food,veg,Description of food item,Cancer,Varied,Home Kitchen,4.5,8.2,428,25.3
+255,Food Item 255,Healthy Food,non-veg,Description of food item,Cancer,Varied,Urban Plates,4.1,21.1,356,39.6
+256,Food Item 256,Healthy Food,veg,Description of food item,Cancer,Varied,Spice House,4.6,27.8,131,67.5
+257,Food Item 257,Healthy Food,non-veg,Description of food item,Cancer,Varied,Healthy Greens,4.7,6.8,408,78.9
+258,Food Item 258,Healthy Food,veg,Description of food item,Cancer,Varied,Energy Bites,4.5,12.0,215,58.4
+259,Food Item 259,Healthy Food,non-veg,Description of food item,Cancer,Varied,Healthy Greens,3.6,26.6,285,26.8
+260,Food Item 260,Healthy Food,veg,Description of food item,Cancer,Varied,Healthy Greens,3.7,21.4,335,14.6
+261,Food Item 261,Healthy Food,non-veg,Description of food item,Epilepsy,Varied,Home Kitchen,3.7,8.3,179,14.9
+262,Food Item 262,Healthy Food,veg,Description of food item,Epilepsy,Varied,Urban Plates,5.0,16.4,323,79.3
+263,Food Item 263,Healthy Food,non-veg,Description of food item,Epilepsy,Varied,Vital Cafe,4.4,13.9,443,37.6
+264,Food Item 264,Healthy Food,veg,Description of food item,Epilepsy,Varied,Fresh Greens,3.8,17.3,175,42.8
+265,Food Item 265,Healthy Food,non-veg,Description of food item,Epilepsy,Varied,Energy Bites,5.0,21.7,401,44.8
+266,Food Item 266,Healthy Food,veg,Description of food item,Epilepsy,Varied,Spice House,4.7,27.2,477,33.8
+267,Food Item 267,Healthy Food,non-veg,Description of food item,Epilepsy,Varied,Ocean Breeze,3.6,23.0,184,63.2
+268,Food Item 268,Healthy Food,veg,Description of food item,Epilepsy,Varied,Urban Plates,4.9,26.1,401,43.8
+269,Food Item 269,Healthy Food,non-veg,Description of food item,Epilepsy,Varied,Healthy Greens,4.3,18.4,315,44.2
+270,Food Item 270,Healthy Food,veg,Description of food item,Epilepsy,Varied,Energy Bites,3.7,2.5,166,58.2
+271,Food Item 271,Healthy Food,non-veg,Description of food item,Fatigue,Varied,Urban Plates,4.5,2.7,371,43.7
+272,Food Item 272,Healthy Food,veg,Description of food item,Fatigue,Varied,Spice House,3.9,18.3,154,55.5
+273,Food Item 273,Healthy Food,non-veg,Description of food item,Fatigue,Varied,Fruit Bar,4.5,15.5,129,36.5
+274,Food Item 274,Healthy Food,veg,Description of food item,Fatigue,Varied,Fruit Bar,3.8,16.0,446,35.4
+275,Food Item 275,Healthy Food,non-veg,Description of food item,Fatigue,Varied,Fresh Greens,4.2,29.5,400,18.3
+276,Food Item 276,Healthy Food,veg,Description of food item,Fatigue,Varied,Green Table,4.5,28.9,467,10.9
+277,Food Item 277,Healthy Food,non-veg,Description of food item,Fatigue,Varied,Green Table,3.6,24.7,475,46.0
+278,Food Item 278,Healthy Food,veg,Description of food item,Fatigue,Varied,Home Kitchen,4.1,5.6,195,10.3
+279,Food Item 279,Healthy Food,non-veg,Description of food item,Fatigue,Varied,Urban Plates,4.6,18.3,209,56.2
+280,Food Item 280,Healthy Food,veg,Description of food item,Fatigue,Varied,Ocean Breeze,4.6,10.2,179,40.4
+281,Food Item 281,Healthy Food,non-veg,Description of food item,Sinus,Varied,Vital Cafe,4.7,24.4,396,60.5
+282,Food Item 282,Healthy Food,veg,Description of food item,Sinus,Varied,Spice House,4.8,21.3,125,23.6
+283,Food Item 283,Healthy Food,non-veg,Description of food item,Sinus,Varied,Ocean Breeze,4.9,23.8,108,66.7
+284,Food Item 284,Healthy Food,veg,Description of food item,Sinus,Varied,Fruit Bar,4.7,8.4,243,42.9
+285,Food Item 285,Healthy Food,non-veg,Description of food item,Sinus,Varied,Green Table,4.5,22.9,123,37.2
+286,Food Item 286,Healthy Food,veg,Description of food item,Sinus,Varied,Home Kitchen,3.7,13.8,431,34.2
+287,Food Item 287,Healthy Food,non-veg,Description of food item,Sinus,Varied,Home Kitchen,4.8,7.6,174,10.2
+288,Food Item 288,Healthy Food,veg,Description of food item,Sinus,Varied,Healthy Greens,4.0,25.2,185,31.8
+289,Food Item 289,Healthy Food,non-veg,Description of food item,Sinus,Varied,Fresh Greens,4.5,22.0,342,61.9
+290,Food Item 290,Healthy Food,veg,Description of food item,Sinus,Varied,Ocean Breeze,3.7,15.1,105,14.2
+291,Food Item 291,Healthy Food,non-veg,Description of food item,Hyperthyroidism,Varied,Urban Plates,4.8,8.4,218,67.8
+292,Food Item 292,Healthy Food,veg,Description of food item,Hyperthyroidism,Varied,Fruit Bar,4.8,29.3,252,46.8
+293,Food Item 293,Healthy Food,non-veg,Description of food item,Hyperthyroidism,Varied,Vital Cafe,3.9,3.3,317,20.8
+294,Food Item 294,Healthy Food,veg,Description of food item,Hyperthyroidism,Varied,Urban Plates,4.3,18.6,300,31.7
+295,Food Item 295,Healthy Food,non-veg,Description of food item,Hyperthyroidism,Varied,Green Table,4.4,12.7,214,30.3
+296,Food Item 296,Healthy Food,veg,Description of food item,Hyperthyroidism,Varied,Spice House,4.7,20.0,343,79.6
+297,Food Item 297,Healthy Food,non-veg,Description of food item,Hyperthyroidism,Varied,Vital Cafe,4.6,12.8,443,14.1
+298,Food Item 298,Healthy Food,veg,Description of food item,Hyperthyroidism,Varied,Fruit Bar,4.8,28.2,419,56.3
+299,Food Item 299,Healthy Food,non-veg,Description of food item,Hyperthyroidism,Varied,Fruit Bar,4.4,22.3,410,28.0
+300,Food Item 300,Healthy Food,veg,Description of food item,Hyperthyroidism,Varied,Fresh Greens,4.8,16.7,390,20.5
+301,Food Item 301,Healthy Food,non-veg,Description of food item,PCOS,Varied,Urban Plates,3.6,9.3,156,46.0
+302,Food Item 302,Healthy Food,veg,Description of food item,PCOS,Varied,Urban Plates,4.0,16.2,385,72.5
+303,Food Item 303,Healthy Food,non-veg,Description of food item,PCOS,Varied,Fresh Greens,3.7,23.2,401,25.5
+304,Food Item 304,Healthy Food,veg,Description of food item,PCOS,Varied,Fresh Greens,4.0,14.9,195,79.3
+305,Food Item 305,Healthy Food,non-veg,Description of food item,PCOS,Varied,Fresh Greens,3.6,8.1,120,35.0
+306,Food Item 306,Healthy Food,veg,Description of food item,PCOS,Varied,Spice House,3.6,25.9,437,62.4
+307,Food Item 307,Healthy Food,non-veg,Description of food item,PCOS,Varied,Home Kitchen,4.5,4.3,258,75.3
+308,Food Item 308,Healthy Food,veg,Description of food item,PCOS,Varied,Home Kitchen,3.7,4.8,272,29.1
+309,Food Item 309,Healthy Food,non-veg,Description of food item,PCOS,Varied,Fruit Bar,3.7,19.7,342,34.6
+310,Food Item 310,Healthy Food,veg,Description of food item,PCOS,Varied,Spice House,4.2,11.3,428,64.2
+311,Food Item 311,Healthy Food,non-veg,Description of food item,Stroke,Varied,Vital Cafe,4.1,15.6,177,71.3
+312,Food Item 312,Healthy Food,veg,Description of food item,Stroke,Varied,Fresh Greens,4.2,3.0,172,55.1
+313,Food Item 313,Healthy Food,non-veg,Description of food item,Stroke,Varied,Green Table,4.7,28.5,315,71.2
+314,Food Item 314,Healthy Food,veg,Description of food item,Stroke,Varied,Fresh Greens,3.8,8.8,296,13.1
+315,Food Item 315,Healthy Food,non-veg,Description of food item,Stroke,Varied,Ocean Breeze,4.7,4.6,425,29.3
+316,Food Item 316,Healthy Food,veg,Description of food item,Stroke,Varied,Spice House,4.4,16.0,465,66.9
+317,Food Item 317,Healthy Food,non-veg,Description of food item,Stroke,Varied,Energy Bites,3.6,28.4,146,69.4
+318,Food Item 318,Healthy Food,veg,Description of food item,Stroke,Varied,Energy Bites,3.6,27.5,308,68.4
+319,Food Item 319,Healthy Food,non-veg,Description of food item,Stroke,Varied,Fruit Bar,4.5,13.8,219,12.1
+320,Food Item 320,Healthy Food,veg,Description of food item,Stroke,Varied,Urban Plates,3.6,3.3,167,44.8
+321,Food Item 321,Healthy Food,non-veg,Description of food item,Cystic Fibrosis,Varied,Ocean Breeze,4.1,20.5,344,61.6
+322,Food Item 322,Healthy Food,veg,Description of food item,Cystic Fibrosis,Varied,Spice House,4.3,2.2,322,43.2
+323,Food Item 323,Healthy Food,non-veg,Description of food item,Cystic Fibrosis,Varied,Green Table,4.1,24.3,170,65.7
+324,Food Item 324,Healthy Food,veg,Description of food item,Cystic Fibrosis,Varied,Healthy Greens,4.5,14.9,213,37.2
+325,Food Item 325,Healthy Food,non-veg,Description of food item,Cystic Fibrosis,Varied,Energy Bites,4.6,6.4,130,63.9
+326,Food Item 326,Healthy Food,veg,Description of food item,Cystic Fibrosis,Varied,Vital Cafe,3.9,25.5,417,49.5
+327,Food Item 327,Healthy Food,non-veg,Description of food item,Cystic Fibrosis,Varied,Healthy Greens,4.9,27.7,347,39.0
+328,Food Item 328,Healthy Food,veg,Description of food item,Cystic Fibrosis,Varied,Healthy Greens,4.8,29.0,443,15.0
+329,Food Item 329,Healthy Food,non-veg,Description of food item,Cystic Fibrosis,Varied,Green Table,4.6,12.4,475,79.6
+330,Food Item 330,Healthy Food,veg,Description of food item,Cystic Fibrosis,Varied,Healthy Greens,4.1,2.5,315,38.7
+331,Food Item 331,Healthy Food,non-veg,Description of food item,Vertigo,Varied,Urban Plates,3.9,13.8,215,58.1
+332,Food Item 332,Healthy Food,veg,Description of food item,Vertigo,Varied,Urban Plates,4.3,23.8,466,75.0
+333,Food Item 333,Healthy Food,non-veg,Description of food item,Vertigo,Varied,Healthy Greens,4.8,28.0,139,53.6
+334,Food Item 334,Healthy Food,veg,Description of food item,Vertigo,Varied,Healthy Greens,3.8,15.6,122,18.8
+335,Food Item 335,Healthy Food,non-veg,Description of food item,Vertigo,Varied,Ocean Breeze,4.5,8.5,238,71.1
+336,Food Item 336,Healthy Food,veg,Description of food item,Vertigo,Varied,Urban Plates,4.4,4.2,259,27.8
+337,Food Item 337,Healthy Food,non-veg,Description of food item,Vertigo,Varied,Green Table,3.8,8.0,152,11.5
+338,Food Item 338,Healthy Food,veg,Description of food item,Vertigo,Varied,Urban Plates,4.0,14.9,316,24.4
+339,Food Item 339,Healthy Food,non-veg,Description of food item,Vertigo,Varied,Spice House,4.1,17.5,307,43.0
+340,Food Item 340,Healthy Food,veg,Description of food item,Vertigo,Varied,Spice House,3.7,19.7,422,11.6
+341,Food Item 341,Healthy Food,non-veg,Description of food item,Eczema,Varied,Green Table,3.7,13.5,236,23.9
+342,Food Item 342,Healthy Food,veg,Description of food item,Eczema,Varied,Fresh Greens,3.6,28.8,308,51.5
+343,Food Item 343,Healthy Food,non-veg,Description of food item,Eczema,Varied,Energy Bites,4.8,6.4,301,27.3
+344,Food Item 344,Healthy Food,veg,Description of food item,Eczema,Varied,Home Kitchen,4.0,3.2,255,70.1
+345,Food Item 345,Healthy Food,non-veg,Description of food item,Eczema,Varied,Home Kitchen,3.8,18.3,290,11.7
+346,Food Item 346,Healthy Food,veg,Description of food item,Eczema,Varied,Home Kitchen,4.2,26.9,429,67.2
+347,Food Item 347,Healthy Food,non-veg,Description of food item,Eczema,Varied,Ocean Breeze,4.2,12.6,493,72.9
+348,Food Item 348,Healthy Food,veg,Description of food item,Eczema,Varied,Home Kitchen,4.1,5.8,423,59.4
+349,Food Item 349,Healthy Food,non-veg,Description of food item,Eczema,Varied,Green Table,4.4,7.6,362,44.1
+350,Food Item 350,Healthy Food,veg,Description of food item,Eczema,Varied,Green Table,5.0,12.1,410,60.7
+351,Food Item 351,Healthy Food,non-veg,Description of food item,Hemophilia,Varied,Healthy Greens,4.8,15.5,347,36.6
+352,Food Item 352,Healthy Food,veg,Description of food item,Hemophilia,Varied,Fresh Greens,4.2,14.8,471,44.0
+353,Food Item 353,Healthy Food,non-veg,Description of food item,Hemophilia,Varied,Home Kitchen,4.8,25.2,445,71.0
+354,Food Item 354,Healthy Food,veg,Description of food item,Hemophilia,Varied,Green Table,4.5,5.6,150,48.4
+355,Food Item 355,Healthy Food,non-veg,Description of food item,Hemophilia,Varied,Green Table,5.0,18.3,125,79.4
+356,Food Item 356,Healthy Food,veg,Description of food item,Hemophilia,Varied,Urban Plates,4.4,6.2,363,70.3
+357,Food Item 357,Healthy Food,non-veg,Description of food item,Hemophilia,Varied,Fruit Bar,4.0,12.6,300,24.5
+358,Food Item 358,Healthy Food,veg,Description of food item,Hemophilia,Varied,Green Table,4.8,23.9,456,34.0
+359,Food Item 359,Healthy Food,non-veg,Description of food item,Hemophilia,Varied,Fresh Greens,4.6,4.0,444,37.6
+360,Food Item 360,Healthy Food,veg,Description of food item,Hemophilia,Varied,Energy Bites,4.6,20.7,296,71.7
+361,Food Item 361,Healthy Food,non-veg,Description of food item,HIV,Varied,Home Kitchen,4.1,2.0,485,32.0
+362,Food Item 362,Healthy Food,veg,Description of food item,HIV,Varied,Ocean Breeze,3.6,8.8,372,58.6
+363,Food Item 363,Healthy Food,non-veg,Description of food item,HIV,Varied,Urban Plates,4.7,24.1,464,55.8
+364,Food Item 364,Healthy Food,veg,Description of food item,HIV,Varied,Fresh Greens,3.7,28.2,471,40.2
+365,Food Item 365,Healthy Food,non-veg,Description of food item,HIV,Varied,Ocean Breeze,4.6,18.2,320,21.5
+366,Food Item 366,Healthy Food,veg,Description of food item,HIV,Varied,Spice House,4.1,29.9,422,40.6
+367,Food Item 367,Healthy Food,non-veg,Description of food item,HIV,Varied,Vital Cafe,4.6,11.2,119,56.4
+368,Food Item 368,Healthy Food,veg,Description of food item,HIV,Varied,Ocean Breeze,4.6,22.8,160,63.5
+369,Food Item 369,Healthy Food,non-veg,Description of food item,HIV,Varied,Spice House,4.5,8.0,271,78.3
+370,Food Item 370,Healthy Food,veg,Description of food item,HIV,Varied,Spice House,4.3,10.0,432,37.4
+371,Food Item 371,Healthy Food,non-veg,Description of food item,Leukemia,Varied,Energy Bites,4.6,28.9,393,44.2
+372,Food Item 372,Healthy Food,veg,Description of food item,Leukemia,Varied,Vital Cafe,3.7,10.1,167,22.1
+373,Food Item 373,Healthy Food,non-veg,Description of food item,Leukemia,Varied,Vital Cafe,3.8,5.7,220,72.5
+374,Food Item 374,Healthy Food,veg,Description of food item,Leukemia,Varied,Fruit Bar,4.2,6.6,379,13.0
+375,Food Item 375,Healthy Food,non-veg,Description of food item,Leukemia,Varied,Vital Cafe,3.8,9.9,111,42.3
+376,Food Item 376,Healthy Food,veg,Description of food item,Leukemia,Varied,Healthy Greens,3.8,5.0,179,45.0
+377,Food Item 377,Healthy Food,non-veg,Description of food item,Leukemia,Varied,Healthy Greens,3.8,11.2,187,68.3
+378,Food Item 378,Healthy Food,veg,Description of food item,Leukemia,Varied,Spice House,4.2,6.3,225,10.5
+379,Food Item 379,Healthy Food,non-veg,Description of food item,Leukemia,Varied,Ocean Breeze,3.9,13.9,163,34.8
+380,Food Item 380,Healthy Food,veg,Description of food item,Leukemia,Varied,Healthy Greens,3.8,25.6,213,71.6
+381,Food Item 381,Healthy Food,non-veg,Description of food item,OCD,Varied,Spice House,3.9,6.1,101,69.3
+382,Food Item 382,Healthy Food,veg,Description of food item,OCD,Varied,Green Table,3.7,3.5,366,79.0
+383,Food Item 383,Healthy Food,non-veg,Description of food item,OCD,Varied,Spice House,4.3,17.6,208,40.1
+384,Food Item 384,Healthy Food,veg,Description of food item,OCD,Varied,Home Kitchen,4.2,19.2,425,68.7
+385,Food Item 385,Healthy Food,non-veg,Description of food item,OCD,Varied,Fresh Greens,4.9,2.1,183,12.3
+386,Food Item 386,Healthy Food,veg,Description of food item,OCD,Varied,Urban Plates,4.6,8.0,160,70.3
+387,Food Item 387,Healthy Food,non-veg,Description of food item,OCD,Varied,Healthy Greens,3.5,17.8,258,33.5
+388,Food Item 388,Healthy Food,veg,Description of food item,OCD,Varied,Green Table,3.9,16.1,401,69.0
+389,Food Item 389,Healthy Food,non-veg,Description of food item,OCD,Varied,Ocean Breeze,3.7,28.7,159,77.5
+390,Food Item 390,Healthy Food,veg,Description of food item,OCD,Varied,Green Table,5.0,12.4,267,48.6
+391,Food Item 391,Healthy Food,non-veg,Description of food item,PTSD,Varied,Healthy Greens,3.9,15.6,345,44.7
+392,Food Item 392,Healthy Food,veg,Description of food item,PTSD,Varied,Spice House,4.9,11.2,451,50.3
+393,Food Item 393,Healthy Food,non-veg,Description of food item,PTSD,Varied,Fruit Bar,3.6,18.3,468,58.5
+394,Food Item 394,Healthy Food,veg,Description of food item,PTSD,Varied,Vital Cafe,4.7,28.5,132,77.3
+395,Food Item 395,Healthy Food,non-veg,Description of food item,PTSD,Varied,Energy Bites,4.1,26.8,287,24.7
+396,Food Item 396,Healthy Food,veg,Description of food item,PTSD,Varied,Home Kitchen,4.3,28.9,401,71.7
+397,Food Item 397,Healthy Food,non-veg,Description of food item,PTSD,Varied,Ocean Breeze,3.8,24.6,295,39.3
+398,Food Item 398,Healthy Food,veg,Description of food item,PTSD,Varied,Spice House,4.3,19.7,148,69.2
+399,Food Item 399,Healthy Food,non-veg,Description of food item,PTSD,Varied,Vital Cafe,3.6,12.7,346,13.5
+400,Food Item 400,Healthy Food,veg,Description of food item,PTSD,Varied,Energy Bites,4.4,4.5,397,45.2
+401,Food Item 401,Healthy Food,non-veg,Description of food item,Schizophrenia,Varied,Spice House,4.8,2.1,368,68.6
+402,Food Item 402,Healthy Food,veg,Description of food item,Schizophrenia,Varied,Fruit Bar,4.4,11.0,302,34.9
+403,Food Item 403,Healthy Food,non-veg,Description of food item,Schizophrenia,Varied,Spice House,4.2,15.8,280,19.7
+404,Food Item 404,Healthy Food,veg,Description of food item,Schizophrenia,Varied,Fruit Bar,4.3,13.0,342,37.7
+405,Food Item 405,Healthy Food,non-veg,Description of food item,Schizophrenia,Varied,Vital Cafe,4.3,3.2,414,58.8
+406,Food Item 406,Healthy Food,veg,Description of food item,Schizophrenia,Varied,Urban Plates,4.0,27.3,358,43.4
+407,Food Item 407,Healthy Food,non-veg,Description of food item,Schizophrenia,Varied,Fresh Greens,4.8,9.2,273,46.1
+408,Food Item 408,Healthy Food,veg,Description of food item,Schizophrenia,Varied,Ocean Breeze,3.8,13.1,198,45.7
+409,Food Item 409,Healthy Food,non-veg,Description of food item,Schizophrenia,Varied,Energy Bites,3.9,13.7,245,38.8
+410,Food Item 410,Healthy Food,veg,Description of food item,Schizophrenia,Varied,Vital Cafe,4.7,6.8,244,24.0
+411,Food Item 411,Healthy Food,non-veg,Description of food item,Sleep Apnea,Varied,Spice House,3.7,7.6,293,45.8
+412,Food Item 412,Healthy Food,veg,Description of food item,Sleep Apnea,Varied,Healthy Greens,4.7,27.8,225,61.4
+413,Food Item 413,Healthy Food,non-veg,Description of food item,Sleep Apnea,Varied,Fruit Bar,4.3,10.6,315,56.5
+414,Food Item 414,Healthy Food,veg,Description of food item,Sleep Apnea,Varied,Spice House,4.0,22.9,248,47.6
+415,Food Item 415,Healthy Food,non-veg,Description of food item,Sleep Apnea,Varied,Fresh Greens,4.2,10.0,239,37.8
+416,Food Item 416,Healthy Food,veg,Description of food item,Sleep Apnea,Varied,Ocean Breeze,4.1,18.9,365,43.1
+417,Food Item 417,Healthy Food,non-veg,Description of food item,Sleep Apnea,Varied,Vital Cafe,3.7,18.4,401,33.5
+418,Food Item 418,Healthy Food,veg,Description of food item,Sleep Apnea,Varied,Vital Cafe,4.6,3.8,463,26.4
+419,Food Item 419,Healthy Food,non-veg,Description of food item,Sleep Apnea,Varied,Energy Bites,4.2,25.4,380,31.1
+420,Food Item 420,Healthy Food,veg,Description of food item,Sleep Apnea,Varied,Urban Plates,3.7,29.6,430,25.1
+421,Food Item 421,Healthy Food,non-veg,Description of food item,Tuberculosis,Varied,Fruit Bar,4.2,18.7,417,50.0
+422,Food Item 422,Healthy Food,veg,Description of food item,Tuberculosis,Varied,Fresh Greens,4.3,18.7,146,57.3
+423,Food Item 423,Healthy Food,non-veg,Description of food item,Tuberculosis,Varied,Green Table,3.7,20.9,356,42.9
+424,Food Item 424,Healthy Food,veg,Description of food item,Tuberculosis,Varied,Fresh Greens,4.2,23.3,348,77.0
+425,Food Item 425,Healthy Food,non-veg,Description of food item,Tuberculosis,Varied,Urban Plates,4.5,17.9,336,17.9
+426,Food Item 426,Healthy Food,veg,Description of food item,Tuberculosis,Varied,Energy Bites,4.3,26.5,361,60.5
+427,Food Item 427,Healthy Food,non-veg,Description of food item,Tuberculosis,Varied,Green Table,4.8,22.5,334,54.8
+428,Food Item 428,Healthy Food,veg,Description of food item,Tuberculosis,Varied,Green Table,3.6,22.9,394,33.8
+429,Food Item 429,Healthy Food,non-veg,Description of food item,Tuberculosis,Varied,Fruit Bar,4.4,4.5,227,73.6
+430,Food Item 430,Healthy Food,veg,Description of food item,Tuberculosis,Varied,Energy Bites,4.9,4.3,296,63.7
+431,Food Item 431,Healthy Food,non-veg,Description of food item,Ulcers,Varied,Energy Bites,4.9,23.7,270,36.8
+432,Food Item 432,Healthy Food,veg,Description of food item,Ulcers,Varied,Home Kitchen,4.7,13.2,374,23.1
+433,Food Item 433,Healthy Food,non-veg,Description of food item,Ulcers,Varied,Energy Bites,4.5,7.6,149,39.4
+434,Food Item 434,Healthy Food,veg,Description of food item,Ulcers,Varied,Fruit Bar,4.9,12.2,260,49.7
+435,Food Item 435,Healthy Food,non-veg,Description of food item,Ulcers,Varied,Spice House,3.6,15.6,364,26.2
+436,Food Item 436,Healthy Food,veg,Description of food item,Ulcers,Varied,Healthy Greens,3.6,15.2,367,77.5
+437,Food Item 437,Healthy Food,non-veg,Description of food item,Ulcers,Varied,Home Kitchen,4.9,24.7,331,14.5
+438,Food Item 438,Healthy Food,veg,Description of food item,Ulcers,Varied,Urban Plates,4.2,9.5,216,32.9
+439,Food Item 439,Healthy Food,non-veg,Description of food item,Ulcers,Varied,Healthy Greens,4.9,3.4,347,43.4
+440,Food Item 440,Healthy Food,veg,Description of food item,Ulcers,Varied,Fruit Bar,4.8,6.5,230,46.3
+441,Food Item 441,Healthy Food,non-veg,Description of food item,Varicose Veins,Varied,Energy Bites,4.9,9.3,165,35.3
+442,Food Item 442,Healthy Food,veg,Description of food item,Varicose Veins,Varied,Fresh Greens,4.5,18.5,394,51.8
+443,Food Item 443,Healthy Food,non-veg,Description of food item,Varicose Veins,Varied,Spice House,3.9,9.2,296,42.7
+444,Food Item 444,Healthy Food,veg,Description of food item,Varicose Veins,Varied,Spice House,4.0,19.7,134,39.8
+445,Food Item 445,Healthy Food,non-veg,Description of food item,Varicose Veins,Varied,Ocean Breeze,4.9,29.1,481,28.0
+446,Food Item 446,Healthy Food,veg,Description of food item,Varicose Veins,Varied,Vital Cafe,4.8,23.6,296,35.5
+447,Food Item 447,Healthy Food,non-veg,Description of food item,Varicose Veins,Varied,Home Kitchen,4.9,15.8,312,32.0
+448,Food Item 448,Healthy Food,veg,Description of food item,Varicose Veins,Varied,Fruit Bar,3.7,4.6,412,31.8
+449,Food Item 449,Healthy Food,non-veg,Description of food item,Varicose Veins,Varied,Home Kitchen,4.6,17.6,375,47.8
+450,Food Item 450,Healthy Food,veg,Description of food item,Varicose Veins,Varied,Spice House,4.7,27.4,409,42.5
+451,Food Item 451,Healthy Food,non-veg,Description of food item,Dementia,Varied,Energy Bites,4.4,16.1,120,17.8
+452,Food Item 452,Healthy Food,veg,Description of food item,Dementia,Varied,Urban Plates,3.9,21.2,144,24.8
+453,Food Item 453,Healthy Food,non-veg,Description of food item,Dementia,Varied,Fresh Greens,3.8,29.3,221,13.0
+454,Food Item 454,Healthy Food,veg,Description of food item,Dementia,Varied,Fresh Greens,4.5,27.9,379,34.0
+455,Food Item 455,Healthy Food,non-veg,Description of food item,Dementia,Varied,Vital Cafe,4.8,7.9,342,75.7
+456,Food Item 456,Healthy Food,veg,Description of food item,Dementia,Varied,Healthy Greens,4.6,9.5,378,35.2
+457,Food Item 457,Healthy Food,non-veg,Description of food item,Dementia,Varied,Vital Cafe,4.3,5.9,225,17.4
+458,Food Item 458,Healthy Food,veg,Description of food item,Dementia,Varied,Ocean Breeze,4.6,8.1,468,50.5
+459,Food Item 459,Healthy Food,non-veg,Description of food item,Dementia,Varied,Fresh Greens,3.5,15.5,131,43.6
+460,Food Item 460,Healthy Food,veg,Description of food item,Dementia,Varied,Green Table,4.7,13.8,431,63.6
+461,Food Item 461,Healthy Food,non-veg,Description of food item,Allergies,Varied,Ocean Breeze,4.9,25.8,380,66.6
+462,Food Item 462,Healthy Food,veg,Description of food item,Allergies,Varied,Vital Cafe,4.1,5.6,308,75.3
+463,Food Item 463,Healthy Food,non-veg,Description of food item,Allergies,Varied,Ocean Breeze,3.6,12.2,322,77.6
+464,Food Item 464,Healthy Food,veg,Description of food item,Allergies,Varied,Green Table,4.2,2.8,416,66.0
+465,Food Item 465,Healthy Food,non-veg,Description of food item,Allergies,Varied,Energy Bites,3.5,24.5,145,50.8
+466,Food Item 466,Healthy Food,veg,Description of food item,Allergies,Varied,Ocean Breeze,4.7,23.5,349,35.1
+467,Food Item 467,Healthy Food,non-veg,Description of food item,Allergies,Varied,Spice House,4.9,19.4,458,60.9
+468,Food Item 468,Healthy Food,veg,Description of food item,Allergies,Varied,Spice House,4.5,13.1,431,55.4
+469,Food Item 469,Healthy Food,non-veg,Description of food item,Allergies,Varied,Energy Bites,3.7,5.4,405,72.5
+470,Food Item 470,Healthy Food,veg,Description of food item,Allergies,Varied,Urban Plates,4.6,22.1,289,19.5
+471,Food Item 471,Healthy Food,non-veg,Description of food item,Sickle Cell,Varied,Fruit Bar,4.1,21.0,233,70.7
+472,Food Item 472,Healthy Food,veg,Description of food item,Sickle Cell,Varied,Green Table,4.4,27.7,182,25.6
+473,Food Item 473,Healthy Food,non-veg,Description of food item,Sickle Cell,Varied,Fruit Bar,4.0,10.6,406,37.2
+474,Food Item 474,Healthy Food,veg,Description of food item,Sickle Cell,Varied,Urban Plates,4.0,14.4,363,21.7
+475,Food Item 475,Healthy Food,non-veg,Description of food item,Sickle Cell,Varied,Spice House,4.0,26.6,119,60.2
+476,Food Item 476,Healthy Food,veg,Description of food item,Sickle Cell,Varied,Ocean Breeze,3.9,16.8,413,14.1
+477,Food Item 477,Healthy Food,non-veg,Description of food item,Sickle Cell,Varied,Fresh Greens,4.5,8.2,130,19.9
+478,Food Item 478,Healthy Food,veg,Description of food item,Sickle Cell,Varied,Energy Bites,4.1,9.1,277,47.7
+479,Food Item 479,Healthy Food,non-veg,Description of food item,Sickle Cell,Varied,Spice House,4.3,23.6,172,51.0
+480,Food Item 480,Healthy Food,veg,Description of food item,Sickle Cell,Varied,Healthy Greens,4.2,8.3,404,56.5
+481,Food Item 481,Healthy Food,non-veg,Description of food item,Multiple Sclerosis,Varied,Healthy Greens,4.8,9.7,419,23.8
+482,Food Item 482,Healthy Food,veg,Description of food item,Multiple Sclerosis,Varied,Urban Plates,4.3,10.5,130,50.9
+483,Food Item 483,Healthy Food,non-veg,Description of food item,Multiple Sclerosis,Varied,Green Table,4.5,20.1,316,25.2
+484,Food Item 484,Healthy Food,veg,Description of food item,Multiple Sclerosis,Varied,Green Table,3.6,20.9,302,14.0
+485,Food Item 485,Healthy Food,non-veg,Description of food item,Multiple Sclerosis,Varied,Home Kitchen,3.7,18.6,430,37.4
+486,Food Item 486,Healthy Food,veg,Description of food item,Multiple Sclerosis,Varied,Vital Cafe,4.0,10.8,429,78.5
+487,Food Item 487,Healthy Food,non-veg,Description of food item,Multiple Sclerosis,Varied,Vital Cafe,3.7,21.9,171,24.7
+488,Food Item 488,Healthy Food,veg,Description of food item,Multiple Sclerosis,Varied,Energy Bites,3.8,26.8,163,14.3
+489,Food Item 489,Healthy Food,non-veg,Description of food item,Multiple Sclerosis,Varied,Fresh Greens,4.2,27.6,234,62.9
+490,Food Item 490,Healthy Food,veg,Description of food item,Multiple Sclerosis,Varied,Vital Cafe,3.8,11.7,295,12.9
+491,Food Item 491,Healthy Food,non-veg,Description of food item,Constipation,Varied,Ocean Breeze,4.9,13.4,414,20.4
+492,Food Item 492,Healthy Food,veg,Description of food item,Constipation,Varied,Home Kitchen,4.8,21.1,250,16.8
+493,Food Item 493,Healthy Food,non-veg,Description of food item,Constipation,Varied,Urban Plates,3.9,4.3,414,54.2
+494,Food Item 494,Healthy Food,veg,Description of food item,Constipation,Varied,Ocean Breeze,4.5,16.7,157,61.0
+495,Food Item 495,Healthy Food,non-veg,Description of food item,Constipation,Varied,Home Kitchen,4.4,16.5,316,40.8
+496,Food Item 496,Healthy Food,veg,Description of food item,Constipation,Varied,Green Table,3.8,4.3,438,67.3
+497,Food Item 497,Healthy Food,non-veg,Description of food item,Constipation,Varied,Fruit Bar,4.2,24.3,364,54.1
+498,Food Item 498,Healthy Food,veg,Description of food item,Constipation,Varied,Healthy Greens,3.6,22.1,367,77.5
+499,Food Item 499,Healthy Food,non-veg,Description of food item,Constipation,Varied,Green Table,4.7,12.3,391,18.4
+500,Food Item 500,Healthy Food,veg,Description of food item,Constipation,Varied,Healthy Greens,4.9,15.7,415,73.3
